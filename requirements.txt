@@ -1,0 +1,4 @@
+opencv-python==4.5.1.48
+cvzone==1.5.3
+plyer==2.1.0
+pygame==2.1.3
